@@ -1,4 +1,6 @@
-import datetime
+## Stock Class enables one to get stock price, volume, and reddit mentions by a given ticker
+## Forum Class enables one to get top mentions after a given date
+
 import sqlite3
 import pandas as pd
 import yfinance as yf
